@@ -1,8 +1,11 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
-name:sanjeevpriya k
-register no : 212224040289
 
-**AIM:**
+NAME: SANJEEVPRIYA k
+
+REG NO : 212224040289
+
+BOOLEAN_FUNCTION_MINIMIZATION
+
+AIM:
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
 
